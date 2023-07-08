@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+body{
+    background-color: rgb(236, 172, 172);
+    font-size: 10px;
+    text-align: center;
+    padding: 20px auto;
+    max-width: 50px;
+
+}
+.marks{
+    text-align: center;
+    
+    padding: 0px;
+    
+    width: 100%;
+    margin: 50px auto 0%;
+}
+::placeholder{
+    text-align: center;
+    background-color: aquamarine;
+    width: 100%;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+label{
+    padding-inline: 2px;
+    margin: 0%;
+    box-sizing:border-box;
+    
+}
+table{
+    border-collapse:collapse ;
+    width: 100%;
+}
+table th{
+    background-color: blueviolet;
+}
+table tr{
+    background-color: aqua;
+}
+button{
+    background-color: rgb(102, 102, 116);
+    padding: 0x;
+    margin: solid;
+}
