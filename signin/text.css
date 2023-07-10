@@ -1,0 +1,41 @@
+body{
+    padding: 10px;
+    text-align: center;
+    border: 20px;
+    background-color: rgb(115, 218, 236);
+}
+form{
+    text-align: center;
+    background-color: aquamarine;
+    width: 30%;
+    height: 200%;
+    padding: 20px;
+}
+label{
+    display:flex;
+    text-align: center;
+    
+
+}
+input{
+    text-align: center;
+    background-color: rgb(244, 247, 247);
+    width: 40%;
+    height: 30px;
+    cursor: pointer;
+
+
+}
+p{
+    text-align: left;
+}
+h1{
+    text-align: left;
+}
+button{
+    display: flex;
+    background-color: chartreuse;
+    padding: 20px;
+    
+    
+}
